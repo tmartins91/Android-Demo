@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TM Android</string>
+    <string name="app_name">TM Android Demo</string>
+    <string name="contry_image_description">Country image</string>
 </resources>
